@@ -1,0 +1,26 @@
+{
+  "name": "bfcomp",
+  "version": "1.0.0",
+  "description": "Compile and convert text to brainfuck code",
+  "main": "bfcomp.js",
+  "exports": {
+    "import": "./bfcomp.js",
+    "require": "./bfcomp.cjs"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axorax/bfcomp.js.git"
+  },
+  "keywords": [
+    "brainfuck",
+    "bf-compiler",
+    "texttobf"
+  ],
+  "author": "Axorax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Axorax/bfcomp.js/issues"
+  },
+  "homepage": "https://github.com/Axorax/bfcomp.js#readme"
+}
